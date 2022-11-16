@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c , shell , js , php
 - 💞️ I’m looking to collaborate on something special in marketing digital or e-commerce
 - 📫 How to reach me
--     whatsapp -> +212612274405
 -     facebook -> facebook.com\bouychou
 -     instagram -> @ep.khalid
 -     Linkedin -> khalid bouychou

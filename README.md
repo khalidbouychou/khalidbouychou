@@ -9,7 +9,7 @@
 -                                               📫 How to reach me **khalidbouychouu@gmail.com**
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidbouychou&show_icons=true&locale=en&layout=compact" alt="khalidbouychou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidbouychou&show_icons=true&locale=en&layout=compact" alt="khalidbouychou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidbouychou&show_icons=true&locale=en" alt="khalidbouychou" /></p>
 

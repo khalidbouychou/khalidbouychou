@@ -1,5 +1,7 @@
 # 💫 About Me:
+<p style="justify-content:center">
 Thank you for taking the time to visit my profile.<br>I have always been passionate about computers, so after i graduated high school i decided to pursue a degree in Information Technology at MAAMOURA KENITRA, during which I studied web development for two years. <br>I would be very excited to join your team and to be of service to the company while also developing my skills
+</p>
 
 <div style="display: flex;justify-content: center;">
 <a href="https://github.com/oakoudad/badge42"><img style=" margin: 0 auto;" src="https://badge.mediaplus.ma/greenbinary/khbouych" alt="khbouych's 42 stats" /></a>

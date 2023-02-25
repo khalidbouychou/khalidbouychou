@@ -1,6 +1,7 @@
 # 💫 About Me:
 Thank you for taking the time to visit my profile.<br>I have always been passionate about computers, so after i graduated high school i decided to pursue a degree in Information Technology at MAAMOURA KENITRA, during which I studied web development for two years. <br>I would be very excited to join your team and to be of service to the company while also developing my skills
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/khbouych" alt="khbouych's 42 stats" /></a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9nitri#9958) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khbouych) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isopatchi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/khalidbouychou/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khalidbouychou) 

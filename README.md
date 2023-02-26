@@ -4,7 +4,7 @@ Thank you for taking the time to visit my profile.<br>I have always been passion
 </p>
 
 <div style="display: flex;justify-content: center;">
-<a href="https://github.com/oakoudad/badge42"><img style=" margin: 0 auto;" src="https://badge.mediaplus.ma/greenbinary/khbouych" alt="khbouych's 42 stats" /></a>
+<img style=" margin: 0 auto;" src="https://badge.mediaplus.ma/greenbinary/khbouych" alt="khbouych's 42 stats" />
 </div>
 
 ## 🌐 Socials:

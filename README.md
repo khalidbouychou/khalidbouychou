@@ -16,6 +16,8 @@
   <a href="wa.me/00212612274405" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="120" height="60" alt="whatsapp logo"  />
   </a>
+</div>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
   <a href="https://www.instagram.com/lid4kh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="120" height="60" alt="instagram logo"  />
   </a>

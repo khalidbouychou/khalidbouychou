@@ -4,6 +4,7 @@
 
 <div align="center" ; style="width: 50%; margin: 0 auto; border: 1px solid white;">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
 </div>
 
 ###

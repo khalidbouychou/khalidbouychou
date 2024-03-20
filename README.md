@@ -4,6 +4,9 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="khalidbouychou" data-version="v1" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
+</div>
 
 
 ###

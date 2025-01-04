@@ -1,4 +1,12 @@
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="khalidbouychou" data-version="v1">
+ <a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/khalidbouychou?trk=profile-badge">KHALID BOUYCHOU</a>
+</div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+
+
+
 
 <div align="center" ; style="width: 50%; margin: 0 auto; border: 1px solid white;">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
@@ -23,6 +31,9 @@
 </div>
 
 ###
+
+
+              
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />

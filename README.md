@@ -2,7 +2,7 @@
 
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
@@ -44,5 +44,4 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
 ###

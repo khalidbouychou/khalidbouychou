@@ -7,6 +7,8 @@
 
 <div align="center" ; style="width: 50%; margin: 0 auto; border: 1px solid white;">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="khalidbouychou" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/khalidbouychou?trk=profile-badge">KHALID B.</a></div>
+              
 <!--  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/khbouych?42Network=off" alt="khbouych's 42 stats" /></a> -->
 </div>
 

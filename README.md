@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://ma.linkedin.com/in/khalidbouychou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:khalidbouychouu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfoliokhalidbouychou-khalidbouychous-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:khbouych@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://khbouych.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=khalidbouychou&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
 </p>
 
@@ -125,5 +125,5 @@ Open to full-stack and platform-engineering work.
 
 <p align="center">
   <a href="https://ma.linkedin.com/in/khalidbouychou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:khalidbouychouu@gmail.com"><img src="https://img.shields.io/badge/khalidbouychouu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:khbouych@gmail.com"><img src="https://img.shields.io/badge/khbouych@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
